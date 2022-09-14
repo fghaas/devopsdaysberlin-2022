@@ -1,6 +1,6 @@
-# Avoiding Sweglish
+# Avoiding Germglish
 
-(and Germglish, and Ukrainglish, etc.)
+(and Poglish, and Ukrainglish, etc.)
 
 <!-- Note -->
 As with accents, I personally think that we should celebrate the
@@ -12,16 +12,6 @@ not everyone is so tolerant and sometimes English monolinguals are
 So, what follows are a few little things to think about when it comes
 to typical crossovers from our respective native languages, to
 English.
-
-
-## Plurals of acronyms
-
-URL:s → URLs
-
-<!-- Note -->
-In Swedish, writers use the colon for plural, genitive, and definite
-genitive forms of acronyms. In English, that does not exist. Instead,
-we just append a lowercase "s" to the all-caps acronym or initialism.
 
 
 ## ..., or?
@@ -63,13 +53,6 @@ disturbance in our data center" would sound much more dramatic than
 you probably intend it to be.
 
 
-## "dosen't" 
-
-It stands for "does not", not for "dose not".
-
-You can also spell out "does not"!
-
-
 ## Articles
 
 In regular English, *the* and *a* are not optional.
@@ -77,8 +60,7 @@ In regular English, *the* and *a* are not optional.
 <!-- Note -->
 Applicable exceptions are newspaper headlines ("Congress passes law on
 guns") and controlled vocabularies (such as troops in combat using
-voice procedure, "gunner, tank, ahead nine hundred, sabot, on my
-command, *fire*").
+voice procedure, "gunner, sabot, tank, on my command, *fire*").
 
 But in regular spoken and written communications, English speakers use
 both definite and indefinite articles.
