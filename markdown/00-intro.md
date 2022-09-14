@@ -29,3 +29,19 @@ if you scan this QR code.
 <!-- Note -->
 Alternatively, if you prefer to follow along on a laptop, you can also
 copy down the URL that's on the screen now.
+
+
+<!-- .slide: data-background="images/cleura.svg" data-background-size="contain" -->
+
+## Cleura (we're hiring!) <!-- .element class="hidden" -->
+
+<!-- Note -->
+Before I start, I do want to mention that I am with Cleura, who are
+also paying my travel to be here. We are a European, privacy
+conscious, open source based public cloud service provider. We are
+based in Sweden, we are a distributed company, and you can work for us
+from anywhere in Europe as long as you speak English and have a
+working internet connection, and we're also hiring.
+
+So if that sounds like you, please by all means come see me after the
+talk and we can chat.
