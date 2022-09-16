@@ -8,7 +8,12 @@ DevOpsDays Berlin 2022
 Florian Haas | [@xahteiwi](https://twitter.com/xahteiwi)
 
 <!-- Note -->
-This is a talk on expressing yourself clearly, succinctly, and
+This is a talk about developing superpowers. Superpowers that will
+help you be better in any role, any industry, any profession —
+*particularly* the ones where you work in distributed teams, and use
+an asynchronous and distributed workflow.
+
+This is about expressing yourself clearly, succinctly, and
 professionally in writing. I have put this together for the English
 language, though parts of this talk may be applicable to other
 languages as well.
